@@ -3,7 +3,7 @@ layout: post
 title: "Version 1.1.0 is out"
 description: "The new version of under-os 1.1.0 is out!"
 category: ""
-tags: []
+tags: ["release"]
 ---
 {% include JB/setup %}
 
